@@ -1,0 +1,394 @@
+Food Name,Prep,Category,Fructose,Lactose,Fructans,Galactans,Polyols,Histamines,Salicylates,SCD Legal,Paleo Legal,Paleo AIP Legal,Gluten-Free,Grain-Free
+Alfalfa Sprouts,Cooked,Vegetables,0,0,0,0,0,1,2,2,2,2,0,0
+Alfalfa Sprouts,Raw,Vegetables,0,0,0,0,0,1,2,2,2,2,0,0
+Almond Butter,Raw,Nuts & Seeds,0,0,1,1,0,1,2,0,0,2,0,0
+Almond Butter - Soaked,Raw,Nuts & Seeds,0,0,1,1,0,1,2,0,0,2,0,0
+Almond Flour,NA,Nuts & Seeds,0,0,2,0,0,1,2,0,0,2,0,0
+Almonds - Whole,Raw,Nuts & Seeds,0,0,1,1,0,1,2,0,0,2,0,0
+Almonds - Whole soaked,Raw,Nuts & Seeds,0,0,1,1,0,1,2,0,0,2,0,0
+Almonds - Whole sprouted,Raw,Nuts & Seeds,0,0,1,1,0,1,2,0,0,2,0,0
+Apples,Raw,Fruits,2,0,0,0,2,1,2,0,0,0,0,0
+Apricots,Raw,Fruits,2,0,0,0,2,1,2,0,0,0,0,0
+Artichokes Jerusalem,Cooked,Vegetables,2,0,2,2,0,1,2,2,0,0,0,0
+Artichokes Jerusalem,Raw,Vegetables,2,0,2,2,0,1,2,2,0,0,0,0
+Arugula,Raw,Vegetables,0,0,0,0,0,1,1,0,0,0,0,0
+Asparagus,Cooked,Vegetables,2,0,1,0,0,0,0,0,0,0,0,0
+Asparagus,Raw,Vegetables,2,0,1,0,0,0,0,0,0,0,0,0
+Avocado Oil,Raw,Fats & Oils,0,0,0,0,0,1,1,0,0,0,0,0
+Avocados,Raw,Fruits,0,0,0,0,2,2,2,0,0,0,0,0
+Baby Bok Choy,Cooked,Vegetables,0,0,0,0,0,0,1,0,0,0,0,0
+Baby Bok Choy,Raw,Vegetables,0,0,0,0,0,0,1,0,0,0,0,0
+Balsamic Vinegar,NA,Herbs & Spices,1,0,0,0,0,2,1,0,2,2,0,0
+Bamboo Shoots,Cooked,Vegetables,1,0,1,0,1,2,0,1,0,0,0,0
+Bamboo Shoots,Raw,Vegetables,1,0,1,0,1,2,0,1,0,0,0,0
+Bananas - Spotted,Raw,Fruits,1,0,0,0,0,2,0,0,0,0,0,0
+Bananas - Yellow no spots,Raw,Fruits,0,0,0,0,0,2,0,2,0,0,0,0
+Barley,Cooked,Grains/Pseudograins,0,0,2,2,0,1,0,2,2,2,2,2
+Barnanas - Original,NA,Fruits,0,0,0,0,0,2,2,1,0,0,0,0
+Basil,Cooked,Herbs & Spices,0,0,0,0,0,0,2,0,0,0,0,0
+Basil,Raw,Herbs & Spices,0,0,0,0,0,0,2,0,0,0,0,0
+Beef,Cooked,Poultry & Meats,0,0,0,0,0,0,0,0,0,0,0,0
+Beef Jerky,NA,Poultry & Meats,1,0,1,0,1,2,2,0,0,0,0,0
+Beef Marrow,Cooked,Poultry & Meats,0,0,0,0,0,1,0,0,0,0,0,0
+Beef Tallow,NA,Oils,0,0,0,0,0,0,0,0,0,0,0,0
+Beer,NA,Beverages,0,0,0,0,0,2,1,2,2,2,2,2
+Beets,Cooked,Vegetables,0,0,2,1,0,1,1,0,0,0,0,0
+Beets,Raw,Vegetables,0,0,2,1,0,1,1,0,0,0,0,0
+Bell Peppers,Cooked,Vegetables,0,0,0,0,0,2,2,0,0,2,0,0
+Bell Peppers,Raw,Vegetables,0,0,0,0,0,2,2,0,0,2,0,0
+Black Beans,Cooked,Beans & Legumes,0,0,2,2,0,1,0,2,2,2,0,0
+Black Beans - Soaked,Cooked,Beans & Legumes,0,0,2,2,0,1,0,0,2,2,0,0
+Black Pepper - Ground,NA,Herbs & Spices,0,0,0,0,0,2,2,0,0,2,0,0
+Blackberries,Raw,Fruits,1,0,0,0,2,1,2,0,0,0,0,0
+Blueberries,Raw,Fruits,1,0,0,0,0,0,2,0,0,0,0,0
+Bok Choy,Cooked,Vegetables,0,0,0,0,0,0,1,1,0,0,0,0
+Bok Choy,Raw,Vegetables,0,0,0,0,0,0,1,1,0,0,0,0
+Brazil Nuts,NA,Nuts & Seeds,1,0,1,0,1,1,2,0,0,2,0,0
+Broad Beans,Cooked,Beans & Legumes,2,0,2,1,0,1,2,2,2,2,0,0
+Broad Beans - Soaked,Cooked,Beans & Legumes,2,0,2,1,0,1,2,2,2,2,0,0
+Broccoli,Cooked,Vegetables,1,0,0,1,1,0,2,0,0,0,0,0
+Broccoli,Raw,Vegetables,1,0,0,1,1,0,2,0,0,0,0,0
+Broth - Chicken,Cooked,Poultry & Meats,0,0,0,0,0,1,1,0,0,0,0,0
+Broth - Duck,Cooked,Poultry & Meats,0,0,0,0,0,1,0,0,0,0,0,0
+Broth - Turkey,Cooked,Poultry & Meats,0,0,0,0,0,1,1,0,0,0,0,0
+Brown Rice,Cooked,Grains/Pseudograins,0,0,0,0,0,0,0,2,2,2,0,2
+Brussels Sprouts,Cooked,Vegetables,1,0,0,0,0,1,0,0,0,0,0,0
+Brussels Sprouts,Raw,Vegetables,1,0,0,0,0,1,0,0,0,0,0,0
+Buckwheat,Cooked,Grains/Pseudograins,0,0,0,0,0,2,0,2,2,2,0,2
+Butter,NA,Eggs & Dairy,0,2,0,0,0,0,0,0,1,2,0,0
+Butter Beans,Cooked,Beans & Legumes,0,0,2,2,0,1,0,2,2,2,0,0
+Butter Beans - Soaked,Cooked,Beans & Legumes,0,0,2,2,0,1,0,2,2,2,0,0
+Cabbage - Green,Cooked,Vegetables,0,0,0,0,0,0,0,0,0,0,0,0
+Cabbage - Green,Raw,Vegetables,0,0,0,0,0,0,0,0,0,0,0,0
+Cabbage - Red,Cooked,Vegetables,1,0,0,0,0,0,0,0,0,0,0,0
+Cabbage - Red,Raw,Vegetables,1,0,0,0,0,0,0,0,0,0,0,0
+Cabbage - Savoy,Cooked,Vegetables,0,0,2,0,0,0,0,0,0,0,0,0
+Cabbage - Savoy,Raw,Vegetables,0,0,2,0,0,0,0,0,0,0,0,0
+Cantaloupe,Raw,Fruits,1,0,0,0,0,0,2,0,0,0,0,0
+Carrots,Cooked,Vegetables,1,0,0,0,0,0,1,0,0,0,0,0
+Carrots,Raw,Vegetables,1,0,0,0,0,0,1,0,0,0,0,0
+Cashew Butter,Raw,Nuts & Seeds,0,0,2,0,0,1,0,0,0,2,0,0
+Cashews - Whole,Raw,Nuts & Seeds,0,0,2,0,0,1,0,0,0,2,0,0
+Cashews - Whole soaked,Raw,Nuts & Seeds,0,0,2,0,0,1,0,0,0,2,0,0
+Cauliflower,Cooked,Vegetables,1,0,0,0,2,0,0,0,0,0,0,0
+Cauliflower,Raw,Vegetables,1,0,0,0,2,0,0,0,0,0,0,0
+Celeriac,Cooked,Vegetables,1,0,0,0,0,0,1,0,0,0,0,0
+Celery,Cooked,Vegetables,0,0,0,0,1,0,0,0,0,0,0,0
+Celery,Raw,Vegetables,0,0,0,0,1,0,0,0,0,0,0,0
+Champagne,NA,Beverages,0,0,0,0,0,2,2,2,2,2,0,0
+Chard - Swiss,Cooked,Vegetables,0,0,0,0,0,1,0,0,0,0,0,0
+Chard - Swiss,Raw,Vegetables,0,0,0,0,0,1,0,0,0,0,0,0
+Cheese - Asiago,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Blue,NA,Eggs & Dairy,0,0,0,0,0,2,1,0,2,2,0,0
+Cheese - Brick,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Brie,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Camembert,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Cheddar,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Colby,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Edam,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Feta,NA,Eggs & Dairy,0,0,0,0,0,1,0,2,2,2,0,0
+Cheese - Gjetost,NA,Eggs & Dairy,0,1,0,0,0,2,0,2,2,2,0,0
+Cheese - Goat,NA,Eggs & Dairy,0,0,0,0,0,2,0,1,2,2,0,0
+Cheese - Gorgonzola,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Gouda,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Gruyere,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Havarti,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Limburger,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Manchego,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Mild Cheddar,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Monterey Jack,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Mozzarella,NA,Eggs & Dairy,0,0,0,0,0,0,0,2,2,2,0,0
+Cheese - Muenster,NA,Eggs & Dairy,0,1,0,0,0,2,0,0,2,2,0,0
+Cheese - Neufchatel,NA,Eggs & Dairy,0,0,0,0,0,2,0,2,2,2,0,0
+Cheese - Parmesan,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Port du Salut,NA,Eggs & Dairy,0,1,0,0,0,2,0,0,2,2,0,0
+Cheese - Primost,NA,Eggs & Dairy,0,1,0,0,0,2,0,2,2,2,0,0
+Cheese - Provolone,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Ricotta,NA,Eggs & Dairy,0,2,0,0,0,0,0,2,2,2,0,0
+Cheese - Romano,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cheese - Roquefort,NA,Eggs & Dairy,0,0,0,0,0,2,1,0,2,2,0,0
+Cheese - Stilton,NA,Eggs & Dairy,0,0,0,0,0,2,0,0,2,2,0,0
+Cherry,Raw,Fruits,2,0,0,0,1,1,2,0,0,0,0,0
+Chestnuts,Cooked,Nuts & Seeds,1,0,0,0,0,1,0,0,0,2,0,0
+Chicken - Skinless,Cooked,Poultry & Meats,0,0,0,0,0,0,0,0,0,0,0,0
+Chicken - With Skin,Cooked,Poultry & Meats,0,0,0,0,0,0,0,0,0,0,0,0
+Chicory,NA,Herbs & Spices,0,0,0,0,0,0,2,2,0,0,0,0
+Chicory Root Fiber,NA,Vegetables,1,0,1,0,1,0,1,2,0,0,0,0
+Chili Pepper - Ground,NA,Herbs & Spices,0,0,0,0,0,2,2,0,0,2,0,0
+Chives - Dried,NA,Herbs & Spices,0,0,0,0,0,1,0,0,0,0,0,0
+Chives - Fresh,NA,Herbs & Spices,0,0,0,0,0,1,0,0,0,0,0,0
+Chocolate,NA,Sweeteners,0,1,0,0,0,1,0,2,1,1,1,0
+Cilantro,Cooked,Herbs & Spices,0,0,0,0,0,1,1,0,0,0,0,0
+Cilantro,Raw,Herbs & Spices,0,0,0,0,0,1,1,0,0,0,0,0
+Cinnamon - Ground,NA,Herbs & Spices,0,0,0,0,0,0,2,0,0,0,0,0
+Clif Kit's Organic - Cashew Bar,,,1,0,0,1,0,2,2,0,0,2,0,0
+Cloves - Ground,NA,Herbs & Spices,0,0,0,0,0,1,2,0,0,0,0,0
+Cocoa,NA,Nuts & Seeds,1,0,0,0,0,2,0,2,0,2,0,0
+Coconut - Flesh,Raw,Fruits,1,0,0,0,1,0,2,0,0,0,0,0
+Coconut - Flour,Raw,Fruits,1,0,0,0,1,0,2,0,0,0,0,0
+Coconut - Shredded,Raw,Fruits,1,0,0,0,1,0,2,0,0,0,0,0
+Coconut Milk,NA,Beverages,1,0,0,0,0,1,1,0,0,0,0,0
+Coconut Oil,Raw,Fats & Oils,0,0,0,0,0,1,2,0,0,0,0,0
+Coffee,NA,Beverages,1,0,0,1,0,1,2,0,2,2,0,0
+Collard Greens,Cooked,Vegetables,0,0,0,0,0,1,0,0,0,0,0,0
+Collard Greens,Raw,Vegetables,0,0,0,0,0,1,0,0,0,0,0,0
+Coriander Seeds - Ground,NA,Herbs & Spices,0,0,0,0,0,0,2,0,0,2,0,0
+Corn,Cooked,Vegetables,1,0,1,0,2,0,1,2,2,2,0,2
+Corn,Raw,Vegetables,1,0,1,0,2,0,1,2,2,2,0,2
+Corn - Canned,Cooked,Vegetables,1,0,1,0,2,1,1,2,2,2,0,0
+Cornmeal,Cooked,Grains/Pseudograins,0,0,0,0,0,0,2,2,2,2,0,2
+Cranberries,Raw,Fruits,1,0,0,0,0,0,2,0,0,0,0,0
+Cucumbers,Cooked,Vegetables,0,0,0,0,0,0,2,0,0,0,0,0
+Cucumbers,Raw,Vegetables,0,0,0,0,0,0,2,0,0,0,0,0
+Cumin Seeds - Ground,NA,Herbs & Spices,0,0,0,0,0,2,2,0,0,2,0,0
+Currant,Raw,Fruits,1,0,2,0,0,1,2,0,0,0,0,0
+Curry - Ground,NA,Herbs & Spices,0,0,0,0,0,2,2,2,0,1,0,0
+Dandelion Leaves,Cooked,Vegetables,0,0,1,0,1,0,1,0,0,0,0,0
+Dandelion Leaves,Raw,Vegetables,0,0,1,0,1,0,1,0,0,0,0,0
+Dates - Dried,Raw,Fruits,2,0,0,0,0,2,2,0,0,0,0,0
+Diet Soda,NA,Beverages,1,1,1,0,1,2,1,2,2,2,0,0
+Dill - Dried,NA,Herbs & Spices,1,0,1,0,1,1,2,0,0,2,0,0
+Dill - Fresh,NA,Herbs & Spices,1,0,1,0,1,1,2,0,0,2,0,0
+Distilled Spirits,NA,Beverages,0,0,0,0,0,2,1,1,2,2,0,0
+Duck,Cooked,Poultry & Meats,0,0,0,0,0,0,0,0,0,0,0,0
+Duck Fat,NA,Poultry & Meats,0,0,0,0,0,0,1,0,0,0,0,0
+Eggplant,Cooked,Vegetables,1,0,0,0,0,2,2,0,0,2,0,0
+Eggplant,Raw,Vegetables,1,0,0,0,0,2,2,0,0,2,0,0
+Eggs - Whites,Cooked,Eggs & Dairy,0,0,0,0,0,2,0,0,0,2,0,0
+Eggs - Whole,Cooked,Eggs & Dairy,0,0,0,0,0,1,0,0,0,2,0,0
+Eggs - Yolks,Cooked,Eggs & Dairy,0,0,0,0,0,0,0,0,0,2,0,0
+Endive,Cooked,Vegetables,0,0,0,0,0,0,2,0,0,0,0,0
+Endive,Raw,Vegetables,0,0,0,0,0,0,2,0,0,0,0,0
+Fennel,Cooked,Vegetables,0,0,0,1,0,0,0,0,0,0,0,0
+Fennel,Raw,Vegetables,0,0,0,1,0,0,0,0,0,0,0,0
+Figs,Raw,Fruits,2,0,0,0,0,1,1,0,0,0,0,0
+Figs - Dried,Raw,Fruits,2,0,2,0,0,2,1,0,0,0,0,0
+Fish - Anchovies,NA,Seafood,0,0,0,0,0,1,0,0,0,0,0,0
+Fish - Cod,Cooked,Seafood,0,0,0,0,0,0,0,0,0,0,0,0
+Fish - Cod,Raw,Seafood,0,0,0,0,0,0,0,0,0,0,0,0
+Fish - Sole,Cooked,Seafood,0,0,0,0,0,0,0,0,0,0,0,0
+Fish - Tilapia,Cooked,Seafood,0,0,0,0,0,0,0,0,0,0,0,0
+Flaxseeds,Raw,Nuts & Seeds,1,0,1,0,1,1,1,2,0,2,0,0
+Flaxseeds - Ground,Raw,Nuts & Seeds,1,0,1,0,1,1,1,2,0,2,0,0
+Garbanzo Beans (chickpeas),Cooked,Beans & Legumes,1,0,2,2,0,2,0,2,2,2,0,0
+Garbanzo Beans (chickpeas) - Soaked,Cooked,Beans & Legumes,1,0,2,2,0,2,0,2,2,2,0,0
+Garlic,Cooked,Vegetables,0,0,2,0,0,1,0,0,0,0,0,0
+Garlic,NA,Herbs & Spices,1,0,1,0,1,2,0,0,0,0,0,0
+Garlic,Raw,Vegetables,0,0,2,0,0,1,0,0,0,0,0,0
+Ghee,NA,Eggs & Dairy,0,1,0,0,0,0,0,0,1,1,0,0
+Ginger,Cooked,Herbs & Spices,1,0,1,0,1,1,2,0,0,0,0,0
+Ginger - Ground,NA,Herbs & Spices,1,0,1,0,1,1,2,0,0,0,0,0
+Glucose Syrup,NA,Sweeteners,1,0,1,0,1,0,1,2,2,2,0,0
+Goat Meat,Cooked,Poultry & Meats,0,0,0,0,0,0,0,0,0,0,0,0
+Goji Berries,Raw,Fruits,0,0,2,0,0,1,2,2,0,2,0,0
+Gooseberry,Raw,Fruits,2,0,0,0,1,1,2,0,0,0,0,0
+Grapefruit,Raw,Fruits,1,0,2,0,0,2,2,0,0,0,0,0
+Grapes,Raw,Fruits,2,0,0,0,0,1,2,0,0,0,0,0
+Green Beans,Cooked,Vegetables,1,0,0,1,0,2,0,0,2,2,0,0
+Green Beans,Raw,Vegetables,1,0,0,1,0,2,0,0,2,2,0,0
+Green Lentils,Cooked,Beans & Legumes,0,0,2,2,0,1,0,2,2,2,0,0
+Green Lentils - Soaked,Cooked,Beans & Legumes,0,0,2,2,0,1,0,0,2,2,0,0
+Honey,NA,Sweeteners,2,0,0,0,0,0,2,0,0,0,0,0
+Honeydew Melon,Raw,Fruits,0,0,0,0,0,0,2,0,0,0,0,0
+Horseradish,NA,Herbs & Spices,1,0,1,0,1,2,1,0,0,0,0,0
+Huckleberries,Raw,Fruits,1,0,0,0,1,1,2,0,0,0,0,0
+Juniper Berries,Raw,Fruits,1,0,0,0,1,1,2,0,0,0,0,0
+Kale,Cooked,Vegetables,1,0,0,0,0,1,0,0,0,0,0,0
+Kale,Raw,Vegetables,1,0,0,0,0,1,0,0,0,0,0,0
+Kidney Beans,Cooked,Beans & Legumes,0,0,2,2,0,1,0,2,2,2,0,0
+Kidney Beans - Soaked,Cooked,Beans & Legumes,0,0,2,2,0,1,0,0,2,2,0,0
+Kind Bar: Almond and Coconut,,,1,0,0,1,0,1,1,2,2,2,0,2
+Kiwifruit,Raw,Fruits,2,0,0,0,0,2,2,0,0,0,0,0
+Kohlrabi,Cooked,Vegetables,1,0,1,0,1,1,0,2,0,0,0,0
+Lamb,Cooked,Poultry & Meats,0,0,0,0,0,0,0,0,0,0,0,0
+LARABAR - Apple Pie,,,2,0,0,1,1,2,2,0,0,2,0,0
+LARABAR - Lemon,,,1,0,0,1,0,2,2,0,0,2,0,0
+Leeks,Cooked,Vegetables,2,0,2,0,0,1,0,0,0,0,0,0
+Leeks,Raw,Vegetables,2,0,2,0,0,1,0,0,0,0,0,0
+Lemons,Raw,Fruits,1,0,0,0,0,2,1,0,0,0,0,0
+Lettuce - Butter,Raw,Vegetables,0,0,0,0,0,0,1,0,0,0,0,0
+Lettuce - Iceburg,Raw,Vegetables,0,0,0,0,0,0,0,0,0,0,0,0
+Lettuce - Lamb's,Raw,Vegetables,0,0,0,0,0,0,1,0,0,0,0,0
+Lettuce - Raddiccio,Raw,Vegetables,0,0,0,0,0,0,1,0,0,0,0,0
+Lettuce - Romaine,Raw,Vegetables,0,0,0,0,0,0,1,0,0,0,0,0
+Lima Beans,Cooked,Beans & Legumes,0,0,2,2,0,2,0,2,2,2,0,0
+Lima Beans - Soaked,Cooked,Beans & Legumes,0,0,2,2,0,2,0,0,2,2,0,0
+Limes,Raw,Fruits,1,0,0,0,0,2,0,0,0,0,0,0
+Liver - Beef,Cooked,Poultry & Meats,0,0,0,0,0,1,0,0,0,0,0,0
+Lychee,Raw,Fruits,1,0,0,0,2,1,2,0,0,0,0,0
+Mandarin,Raw,Fruits,1,0,0,0,0,2,2,0,0,0,0,0
+Mango,Raw,Fruits,2,0,0,0,0,1,1,0,0,0,0,0
+Maple Syrup,NA,Sweeteners,0,0,0,0,0,0,0,2,0,0,0,0
+Milk - Cow,NA,Eggs & Dairy,0,2,0,0,0,0,0,2,2,2,0,0
+Milk - Goat,NA,Eggs & Dairy,0,2,0,0,0,0,0,2,2,2,0,0
+Millet,Cooked,Grains/Pseudograins,0,0,0,0,0,0,0,2,2,2,0,2
+Mung Beans - Sprouted,Cooked,Beans & Legumes,0,0,2,2,0,1,0,2,2,2,0,0
+Mushrooms,Cooked,Vegetables,1,0,1,0,2,2,1,0,0,0,0,0
+Mushrooms,Raw,Vegetables,1,0,1,0,2,2,1,0,0,0,0,0
+Mushrooms - Chanterelle,Cooked,Vegetables,1,0,1,0,1,2,1,0,0,0,0,0
+Mushrooms - Chanterelle,Raw,Vegetables,1,0,1,0,1,2,1,0,0,0,0,0
+Mushrooms - Porcino,Cooked,Vegetables,1,0,1,0,1,2,1,0,0,0,0,0
+Mushrooms - Porcino,Raw,Vegetables,1,0,1,0,1,2,1,0,0,0,0,0
+Mustard - Condiment,NA,Herbs & Spices,0,0,0,0,0,2,2,0,0,2,0,0
+Mustard Greens,Cooked,Vegetables,0,0,0,0,0,1,0,0,0,0,0,0
+Mustard Greens,Raw,Vegetables,0,0,0,0,0,1,0,0,0,0,0,0
+Mustard Seeds - Ground,NA,Herbs & Spices,0,0,0,0,0,2,2,0,0,2,0,0
+Navy Beans,Cooked,Beans & Legumes,1,0,2,2,0,1,0,2,2,2,0,0
+Navy Beans - Soaked,Cooked,Beans & Legumes,1,0,2,2,0,1,0,0,2,2,0,0
+Nectarines,Raw,Fruits,0,0,2,0,2,1,2,0,0,0,0,0
+Oats - Gluten Free,Cooked,Grains/Pseudograins,0,0,1,1,0,0,0,2,2,2,0,2
+Okra,Cooked,Vegetables,1,0,0,0,0,1,2,2,0,0,0,0
+Olive Oil - Extra Virgin,Raw,Fats & Oils,0,0,0,0,0,0,2,0,0,0,0,0
+Olives,Raw,Vegetables,0,0,0,0,0,2,2,0,0,0,0,0
+Ona Cookies - Coconut Shortbread,,,1,0,0,0,0,1,2,0,0,2,0,0
+Onions,Cooked,Vegetables,2,0,2,1,0,1,0,0,0,0,0,0
+Onions,Raw,Vegetables,2,0,2,1,0,1,0,0,0,0,0,0
+Orange Juice,NA,Beverages,2,0,0,0,0,2,2,0,2,2,0,0
+Oranges,Raw,Fruits,2,0,0,0,0,2,2,0,0,0,0,0
+Oregano - Dried,NA,Herbs & Spices,1,0,1,0,1,0,2,0,0,0,0,0
+Oregano - Fresh,NA,Herbs & Spices,1,0,1,0,1,0,2,0,0,0,0,0
+Oysters,Raw,Seafood,0,0,0,0,0,1,0,0,0,0,0,0
+Palm Oil,NA,Fats & Oils,1,0,1,0,1,1,1,0,0,0,0,0
+Papaya,Raw,Fruits,1,0,0,0,0,1,0,0,0,0,0,0
+Parsley - Dried,NA,Herbs & Spices,0,0,0,0,0,0,0,0,0,0,0,0
+Parsley - Fresh,NA,Herbs & Spices,0,0,0,0,0,0,0,0,0,0,0,0
+Parsley - Root,NA,Herbs & Spices,1,0,0,0,0,0,1,0,0,0,0,0
+Parsnips,Cooked,Vegetables,1,0,0,0,0,2,1,2,0,0,0,0
+Passion Fruit,Raw,Fruits,0,0,0,0,0,1,1,0,0,0,0,0
+Peaches - White,Raw,Fruits,2,0,2,0,2,1,2,0,0,0,0,0
+Peaches - Yellow,Raw,Fruits,2,0,0,0,2,1,2,0,0,0,0,0
+Peanut Butter,Raw,Nuts & Seeds,0,0,0,0,0,2,1,0,2,2,0,0
+Peanuts - Whole,Raw,Nuts & Seeds,0,0,0,0,0,2,1,0,2,2,0,0
+Pears,Raw,Fruits,2,0,0,0,2,2,1,0,0,0,0,0
+Peas,Cooked,Vegetables,1,0,0,2,0,1,0,0,2,2,0,0
+Peas - Green,Cooked,Vegetables,0,0,0,2,0,1,0,0,2,2,0,0
+Peas - Green,Raw,Vegetables,0,0,0,2,0,1,0,0,2,2,0,0
+Peas - Snow,Cooked,Vegetables,0,0,2,2,2,1,1,0,2,2,0,0
+Peas - Snow,Raw,Vegetables,0,0,2,2,2,1,1,0,2,2,0,0
+Pecans - Whole,Raw,Nuts & Seeds,0,0,0,0,0,1,1,0,0,2,0,0
+Pepper - Green,Cooked,Vegetables,1,0,0,0,0,1,2,0,0,2,0,0
+Pepper - Green,Raw,Vegetables,1,0,0,0,0,1,2,0,0,2,0,0
+Peppermint - Dried,NA,Herbs & Spices,1,0,1,0,1,0,2,0,0,0,0,0
+Peppermint - Fresh,NA,Herbs & Spices,1,0,1,0,1,0,2,0,0,0,0,0
+Persimmon,Raw,Fruits,2,0,2,0,0,1,1,0,0,0,0,0
+Pickles,Raw,Vegetables,1,0,2,0,0,2,2,0,0,0,0,0
+Pineapple,Raw,Fruits,2,0,0,0,0,2,2,0,0,0,0,0
+Pinto Beans,Cooked,Beans & Legumes,1,0,2,2,0,1,0,2,2,2,0,0
+Pinto Beans - Soaked,Cooked,Beans & Legumes,1,0,2,2,0,1,0,2,2,2,0,0
+Plantains - Green,Cooked,Fruits,0,0,0,0,0,1,1,0,0,0,0,0
+Plums,Raw,Fruits,2,0,2,0,2,2,2,0,0,0,0,0
+Pomegranate,Raw,Fruits,2,0,2,0,0,1,1,0,0,0,0,0
+Pork,Cooked,Poultry & Meats,0,0,0,0,0,1,0,0,0,0,0,0
+Pork Bratwurst,Cooked,Poultry & Meats,1,0,1,0,1,2,2,0,0,0,0,0
+Pork Lard,NA,Oils,0,0,0,0,0,0,0,0,0,0,0,0
+Potatoes,Cooked,Vegetables,0,0,0,0,0,2,0,2,1,2,0,0
+Prickly Pear,Raw,Fruits,1,0,0,0,0,1,1,1,0,0,0,0
+Prosciutto,NA,Poultry & Meats,1,0,1,0,1,2,2,0,0,0,0,0
+Prunes,Raw,Fruits,0,0,2,0,2,1,2,0,0,0,0,0
+Pumpkin,Cooked,Vegetables,1,0,0,0,0,0,1,0,0,0,0,0
+Pumpkin Seeds,Cooked,Nuts & Seeds,0,0,0,0,0,1,1,0,0,2,0,0
+Pumpkin Seeds - Soaked,Cooked,Nuts & Seeds,0,0,0,0,0,1,1,0,0,2,0,0
+Quinoa,Cooked,Grains/Pseudograins,0,0,0,0,0,0,0,2,1,2,0,0
+Quinoa - Sprouted,Cooked,Grains/Pseudograins,0,0,0,0,0,0,0,2,1,2,0,0
+Radishes,Cooked,Vegetables,1,0,0,0,0,0,2,0,0,0,0,0
+Radishes,Raw,Vegetables,1,0,0,0,0,0,2,0,0,0,0,0
+Raisins,Raw,Fruits,2,0,2,0,0,2,2,0,0,0,0,0
+Raspberries,Raw,Fruits,1,0,0,0,0,1,2,0,0,0,0,0
+Red Lentils - Soaked,Cooked,Beans & Legumes,0,0,2,2,0,1,0,0,2,2,0,0
+Red Wine,NA,Beverages,2,0,0,0,0,2,2,0,1,2,0,0
+Rhubarb,Cooked,Fruits,0,0,0,0,0,1,1,0,0,0,0,0
+Rhubarb,Cooked,Vegetables,1,0,1,0,1,1,2,0,0,0,0,0
+Rice Flour,NA,Grains/Pseudograins,0,0,0,0,0,0,0,2,2,2,0,2
+Rosemary - Dried,NA,Herbs & Spices,1,0,1,0,1,0,2,0,0,0,0,0
+Rosemary - Fresh,NA,Herbs & Spices,0,0,0,0,0,0,2,0,0,0,0,0
+Rutabaga,Cooked,Vegetables,1,0,1,0,1,1,0,0,0,0,0,0
+Rye,Cooked,Grains/Pseudograins,0,0,2,0,0,1,0,2,2,2,2,2
+Sage - Dried,NA,Herbs & Spices,1,0,1,0,1,0,2,0,0,0,0,0
+Sage - Fresh,NA,Herbs & Spices,1,0,1,0,1,0,2,0,0,0,0,0
+Salami,Cooked,Poultry & Meats,1,0,1,0,1,2,2,0,0,0,0,0
+Salmon,Cooked,Seafood,0,0,0,0,0,0,0,0,0,0,0,0
+Salmon,Raw,Seafood,0,0,0,0,0,0,0,0,0,0,0,0
+Salsify,Cooked,Vegetables,1,0,1,0,1,1,1,1,0,0,0,0
+Salt,NA,Herbs & Spices,1,0,1,0,1,1,0,0,0,0,0,0
+Sardines,Cooked,Seafood,0,0,0,0,0,1,0,0,0,0,0,0
+Sardines,Raw,Seafood,0,0,0,0,0,1,0,0,0,0,0,0
+Sauerkraut,NA,Vegetables,0,0,1,0,1,2,1,0,0,0,0,0
+Scallions - Green tops,Cooked,Vegetables,0,0,0,0,0,1,0,0,0,0,0,0
+Scallions - Green tops,Raw,Vegetables,0,0,0,0,0,1,0,0,0,0,0,0
+Scallions - White bottoms,Cooked,Vegetables,0,0,2,0,0,1,0,0,0,0,0,0
+Scallions - White bottoms,Raw,Vegetables,0,0,2,0,0,1,0,0,0,0,0,0
+Scallops,Cooked,Seafood,0,0,0,0,0,1,0,0,0,0,0,0
+Scallops,Raw,Seafood,0,0,0,0,0,1,0,0,0,0,0,0
+Sea Vegetable - Dulse,Cooked,Vegetables,0,0,0,0,0,2,1,2,0,0,0,0
+Sea Vegetable - Dulse,Raw,Vegetables,0,0,0,0,0,2,1,2,0,0,0,0
+Sea Vegetable - Wakame,Cooked,Vegetables,0,0,0,0,0,2,1,2,0,0,0,0
+Sesame Seed Butter (tahini),Raw,Nuts & Seeds,0,0,0,0,0,1,1,0,0,2,0,0
+Sesame Seeds,Cooked,Nuts & Seeds,0,0,0,0,0,1,1,2,0,2,0,0
+Sesame Seeds,Raw,Nuts & Seeds,0,0,0,0,0,1,1,2,0,2,0,0
+Shallots,Cooked,Vegetables,0,0,2,0,0,1,0,0,0,0,0,0
+Shallots,Raw,Vegetables,0,0,2,0,0,1,0,0,0,0,0,0
+Shrimp,Cooked,Seafood,0,0,0,0,0,1,0,0,0,0,0,0
+Shrimp,Raw,Seafood,0,0,0,0,0,1,0,0,0,0,0,0
+Soy Lecithin,NA,Other,1,0,1,0,1,1,1,0,2,2,0,0
+Soy Milk,NA,Beverages,0,0,0,0,0,2,0,2,2,2,0,0
+Soybeans,Cooked,Beans & Legumes,1,0,2,2,0,2,0,2,2,2,0,0
+Soybeans - Soaked,Cooked,Beans & Legumes,1,0,2,2,0,2,0,2,2,2,0,0
+Sparkling Mineral Water,NA,Beverages,0,0,0,0,0,0,0,0,0,0,0,0
+Spinach,Cooked,Vegetables,0,0,0,0,0,2,2,0,0,0,0,0
+Spinach,Raw,Vegetables,0,0,0,0,0,2,2,0,0,0,0,0
+Sprouts,Raw,Vegetables,1,0,0,0,0,1,1,2,0,0,0,0
+Squash - Acorn,Cooked,Vegetables,1,0,1,0,1,0,1,0,0,0,0,0
+Squash - Butternut,Cooked,Vegetables,0,0,0,0,1,0,1,0,0,0,0,0
+Squash - Spaghetti,Cooked,Vegetables,0,0,0,0,0,0,1,0,0,0,0,0
+Squash - Yellow Summer,Cooked,Vegetables,0,0,0,0,0,0,1,0,0,0,0,0
+Squash - Zucchini,Cooked,Vegetables,0,0,0,0,0,0,2,0,0,0,0,0
+Strawberries,Raw,Fruits,2,0,0,0,0,2,2,0,0,0,0,0
+Sugar,NA,Sweeteners,0,0,0,0,0,0,0,2,2,2,0,0
+Sunflower Butter,Raw,Nuts & Seeds,0,0,0,0,0,2,0,0,0,2,0,0
+Sunflower Seeds,Cooked,Nuts & Seeds,0,0,0,0,0,2,0,0,0,2,0,0
+Sunflower Seeds - Soaked,Cooked,Nuts & Seeds,0,0,0,0,0,2,0,0,0,2,0,0
+Sweet potatoes,Cooked,Vegetables,1,0,0,0,2,0,2,2,0,0,0,0
+Tamarillo,Raw,Fruits,2,0,0,0,0,1,0,0,0,0,0,0
+Tangerine,Raw,Fruits,1,0,0,0,0,2,2,0,0,0,0,0
+Taro,Cooked,Vegetables,0,0,0,0,0,1,1,2,0,0,0,0
+Tea,NA,Beverages,1,0,1,0,0,1,2,1,1,1,0,0
+Tea - Dandelion,NA,Beverages,0,0,2,0,0,1,2,1,1,1,0,0
+Tea - Fruit,NA,Beverages,0,0,2,0,0,1,2,1,1,1,0,0
+Tea - Ginger,NA,Beverages,0,0,1,0,0,1,2,1,1,1,0,0
+Tea - Green,NA,Beverages,0,0,0,0,0,1,2,1,1,1,0,0
+Tea - Rooibos,NA,Beverages,0,0,0,0,0,0,2,1,1,1,0,0
+Thyme - Dried,NA,Herbs & Spices,0,0,0,0,0,1,2,0,0,0,0,0
+Thyme - Fresh,NA,Herbs & Spices,0,0,0,0,0,1,2,0,0,0,0,0
+Tomatoes,Cooked,Vegetables,2,0,0,0,0,2,2,0,0,2,0,0
+Tomatoes,Raw,Vegetables,2,0,0,0,0,2,2,0,0,2,0,0
+Tuna,Cooked,Seafood,0,0,0,0,0,2,0,0,0,0,0,0
+Tuna,Raw,Seafood,0,0,0,0,0,2,0,0,0,0,0,0
+Tuna - Canned,Cooked,Seafood,1,0,0,0,0,2,0,0,0,0,0,0
+Turkey,Cooked,Poultry & Meats,0,0,0,0,0,0,0,0,0,0,0,0
+Turmeric - Fresh,Cooked,Herbs & Spices,0,0,0,0,0,0,2,0,0,0,0,0
+Turmeric - Ground,NA,Herbs & Spices,1,0,1,0,1,0,2,0,0,0,0,0
+Turnip,Cooked,Vegetables,1,0,0,0,0,1,1,2,0,0,0,0
+Turnip Greens,Cooked,Vegetables,1,0,1,0,1,1,0,0,0,0,0,0
+Turnip Greens,Raw,Vegetables,1,0,1,0,1,1,0,0,0,0,0,0
+Vanilla Extract,NA,Herbs & Spices,1,0,1,0,1,1,0,0,0,0,0,0
+Walnut Butter,Raw,Nuts & Seeds,0,0,0,0,0,2,1,0,0,2,0,0
+Walnut Oil,Raw,Fats & Oils,1,0,1,0,1,2,2,0,1,2,0,0
+Walnuts - Whole,Raw,Nuts & Seeds,0,0,0,0,0,2,1,0,0,2,0,0
+Walnuts - Whole soaked,Raw,Nuts & Seeds,0,0,0,0,0,2,1,0,0,2,0,0
+Water,NA,Beverages,0,0,0,0,0,0,0,0,0,0,0,0
+Watercress,Cooked,Vegetables,1,0,1,0,1,1,2,0,0,0,0,0
+Watercress,Raw,Vegetables,1,0,1,0,1,1,2,0,0,0,0,0
+Watermelon,Raw,Fruits,2,0,2,0,2,0,2,0,0,0,0,0
+Watermelon Seeds,NA,Nuts & Seeds,1,0,1,0,1,1,1,0,0,2,0,0
+WB Kitchen - Peanut Butter Honey Cookies,,,1,0,0,0,0,1,2,0,2,2,0,0
+WB Kitchen - Peanut Ginger Spice Honey Nut Bar,,,1,0,0,1,1,1,2,2,2,2,0,0
+White Rice,Cooked,Grains/Pseudograins,0,0,0,0,0,0,0,2,2,2,0,2
+White Wine,NA,Beverages,2,0,0,0,0,2,2,2,1,2,0,0
+Whole Wheat,Cooked,Grains/Pseudograins,0,0,2,0,0,1,0,2,2,2,2,2
+Wild Friends - Honey Sunflower Butter,,,1,0,0,0,0,2,1,0,0,2,0,0
+Yak Meat,Cooked,Poultry & Meats,0,0,0,0,0,0,0,0,0,0,0,0
+Yams,Cooked,Vegetables,0,0,0,0,0,0,0,2,0,0,0,0
+Yeast,NA,Other,0,0,1,0,1,1,0,2,0,0,0,0
+Yeast Extract,NA,Other,0,0,1,0,1,2,2,2,2,2,0,0
+Yogurt,NA,Eggs & Dairy,0,2,0,0,0,1,0,2,2,2,0,0
+Yogurt - Homemade SCD Legal,NA,Eggs & Dairy,0,0,0,0,0,1,0,0,2,2,0,0

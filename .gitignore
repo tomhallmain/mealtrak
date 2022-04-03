@@ -1,3 +1,7 @@
+*creds.json
+*my_food_data.csv
+*.swp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
